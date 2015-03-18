@@ -1,13 +1,8 @@
 module.exports = {
     mongo: {
-        app_name: {
-            url: "mongodb://127.0.0.1:27017/app_name"
+        spider_cook: {
+            url: "mongodb://127.0.0.1:27017/spider_cook"
         }
-    },
-    redis: {
-        host: '127.0.0.1',
-        port: 6379,
-        db: 5,
     },
     express: {
         port: 3006,

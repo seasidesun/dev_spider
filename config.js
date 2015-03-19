@@ -5,7 +5,7 @@ module.exports = {
         }
     },
     express: {
-        port: 3006,
+        port: 3007,
         env: 'development',
         // env: 'production',
         access_path: '/logs/access.log',
